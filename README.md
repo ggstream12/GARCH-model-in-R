@@ -24,4 +24,4 @@ whole program.
 The graphs and data can be analysed in the DATA section at the top right and in the VALUES
 section, using the arrows below you can scroll through the various plots produced in the output.
 The main file is called ”Programming Project.R” and can be read via any IDE that supports the R
-language, in our case we used ”R studio”
+language, in our case we used ”R studio”.
