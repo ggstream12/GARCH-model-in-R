@@ -1,4 +1,4 @@
- # Introduction
+ # GARCH model for S&P500
 
 The project we chose was based on implementing a program in R that would allow the estimation
 of a GARCH(1,1) model to check whether it was a meaningful model for checking its a valuable tool
