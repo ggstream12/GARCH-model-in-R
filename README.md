@@ -1,5 +1,8 @@
  # GARCH model for S&P500
 
+### February 2023, 2023
+### Giulio Galizio, galizg@usi.ch
+
 The project we chose was based on implementing a program in R that would allow the estimation
 of a GARCH(1,1) model to check whether it was a meaningful model for checking its a valuable tool
 for financial predictions. Specifically, the points requested were as follows:
